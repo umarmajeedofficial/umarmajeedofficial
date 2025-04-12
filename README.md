@@ -78,7 +78,7 @@
 
 ## 📊 LeetCode Stats
 
-> 🔗 [Visit My LeetCode Profile](https://leetcode.com/umarmajeed/)
+> 🔗 [Visit My LeetCode Profile](https://leetcode.com/umarmajeedofficial/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=baloo&ext=heatmap)
 
