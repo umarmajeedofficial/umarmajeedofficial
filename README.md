@@ -1,9 +1,9 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Umar Majeed</h1>
+<h1 align="center">Hi 👋, I'm Umar Majeed</h1>https://github.com/umarmajeedofficial/umarmajeedofficial/blob/main/README.md
 <h3 align="center">AI Researcher | RL Engineer | Autonomous Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umarmajeed7&label=Profile%20views&color=0e75b6&style=flat" alt="umarmajeed7" />
+  <img src="https://komarev.com/ghpvc/?username=umarmajeed7&label=Profile%20views&color=0e75b6&style=flat" alt="umarmajeedofficial" />
 </p>
 
 ---
