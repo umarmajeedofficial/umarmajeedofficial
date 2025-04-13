@@ -48,46 +48,49 @@
 
 <div align="center">
 
-<!-- Hackathon 1 -->
-<div style="border: 2px solid #8A2BE2; border-radius: 12px; padding: 16px; margin: 20px auto; width: 90%; max-width: 800px; background-color: #f4f4ff; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-  <h3 style="margin-top: 0;">🔵 Lablab.ai Hackathon 1: AIstronauts – Space Data Analyzer</h3>
-  <p>🛰️ Built a NASA space data exploration tool using LLMs for summarization and data visualization for public engagement.</p>
-  <p><strong>Tech Stack:</strong> Python, Streamlit, OpenAI API, Pandas, Matplotlib</p>
-  <div style="margin-top: 10px;">
-    <a href="https://drive.google.com/your-certificate-link" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=google-drive" />
-    </a>
-    <a href="https://github.com/your-repo-link" target="_blank">
-      <img src="https://img.shields.io/badge/Code%20Repository-black?style=for-the-badge&logo=github" />
-    </a>
-    <a href="https://lablab.ai/event/your-hackathon-page" target="_blank">
-      <img src="https://img.shields.io/badge/Hackathon%20Page-green?style=for-the-badge&logo=notion" />
-    </a>
+  <!-- Hackathon 1 Card -->
+  <div style="border: 2px solid #8A2BE2; border-radius: 12px; padding: 16px; margin: 10px; width: 90%; max-width: 700px; background-color: #f9f9f9;">
+    <h3>Lablab.ai Hackathon 1: AIstronauts – Space Data Analyzer</h3>
+    <p>
+      🛰️ Built a NASA space data analysis app that summarizes datasets using LLMs and provides visual insights for the public.
+    </p>
+    <p><strong>Skills:</strong> Python, Streamlit, OpenAI API, Data Wrangling</p>
+    <div style="margin-top: 12px;">
+      <a href="https://drive.google.com/your-certificate-link" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=google-drive" />
+      </a>
+      <a href="https://github.com/your-repo-link" target="_blank">
+        <img src="https://img.shields.io/badge/Code%20Repository-black?style=for-the-badge&logo=github" />
+      </a>
+      <a href="https://lablab.ai/event/your-hackathon-page" target="_blank">
+        <img src="https://img.shields.io/badge/Hackathon%20Page-green?style=for-the-badge&logo=notion" />
+      </a>
+    </div>
   </div>
-</div>
 
-<!-- Hackathon 2 -->
-<div style="border: 2px solid #9932CC; border-radius: 12px; padding: 16px; margin: 20px auto; width: 90%; max-width: 800px; background-color: #f9f2fc; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-  <h3 style="margin-top: 0;">🟣 Lablab.ai Hackathon 2: Vision-Based User Tracker</h3>
-  <p>👁️ Developed a user tracking app that detects faces via webcam and improves tracking via Reinforcement Learning feedback loop.</p>
-  <p><strong>Tech Stack:</strong> Python, OpenCV, Flask, PyTorch, RL Algorithms</p>
-  <div style="margin-top: 10px;">
-    <a href="https://drive.google.com/your-certificate-link" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge&logo=google-drive" />
-    </a>
-    <a href="https://github.com/your-repo-link" target="_blank">
-      <img src="https://img.shields.io/badge/Code%20Repository-black?style=for-the-badge&logo=github" />
-    </a>
-    <a href="https://lablab.ai/event/your-hackathon-page" target="_blank">
-      <img src="https://img.shields.io/badge/Hackathon%20Page-green?style=for-the-badge&logo=notion" />
-    </a>
+  <!-- Hackathon 2 Card -->
+  <div style="border: 2px solid #800080; border-radius: 12px; padding: 16px; margin: 10px; width: 90%; max-width: 700px; background-color: #f9f9f9;">
+    <h3>Lablab.ai Hackathon 2: Vision-Based User Tracker</h3>
+    <p>
+      👁️ Created a system that detects and tracks users in real-time using webcam input and reinforcement learning for gaze accuracy.
+    </p>
+    <p><strong>Skills:</strong> OpenCV, PyTorch, Flask, Computer Vision, RL</p>
+    <div style="margin-top: 12px;">
+      <a href="https://drive.google.com/your-certificate-link" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge&logo=google-drive" />
+      </a>
+      <a href="https://github.com/your-repo-link" target="_blank">
+        <img src="https://img.shields.io/badge/Code%20Repository-black?style=for-the-badge&logo=github" />
+      </a>
+      <a href="https://lablab.ai/event/your-hackathon-page" target="_blank">
+        <img src="https://img.shields.io/badge/Hackathon%20Page-green?style=for-the-badge&logo=notion" />
+      </a>
+    </div>
   </div>
+
+  <!-- Add more hackathon cards below in the same format -->
+
 </div>
-
-<!-- Add more Hackathons in the same format -->
-
-</div>
-
 
 ---
 
