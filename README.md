@@ -1,31 +1,26 @@
-<!-- Profile Header with Visual Appeal -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmF6azhnZ2djYnA1Mms5YzR4dDgxYWhnN3llNGE3YTZnZW4wOGp5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZEB6Bvhuo75EA/giphy.gif" width="100%" alt="AI Banner" />
-</p>
-
-<h1 align="center">Hi 👋, I'm <span style="color:#0e75b6">Umar Majeed</span></h1>
-<h3 align="center">
-  <img src="https://img.shields.io/badge/AI%20Researcher-blue?style=for-the-badge&logo=ai" />
-  <img src="https://img.shields.io/badge/RL%20Engineer-purple?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Autonomous%20Systems%20Enthusiast-black?style=for-the-badge&logo=tesla" />
-</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Umar Majeed</h1>
+<h3 align="center">🚀 AI Researcher | 🤖 RL Engineer | 🚗 Autonomous Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umarmajeed7&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=umarmajeed7&label=Profile%20views&color=0e75b6&style=flat-square" alt="umarmajeed7" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/umarmajeed7">
-    <img src="https://img.shields.io/github/followers/umarmajeed7?label=Follow&style=social" />
+  <a href="https://linkedin.com/in/umarmajeed7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/umarmajeedofficial/">
-    <img src="https://img.shields.io/badge/LeetCode-umarmajeedofficial-orange?style=flat-square&logo=leetcode" />
+  <a href="https://github.com/umarmajeed7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/umarmajeedofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
 ---
 
----
+
 
 ## 🚀 About Me
 
