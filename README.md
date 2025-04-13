@@ -1,30 +1,26 @@
-<!-- Profile Header with Visuals -->
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Umar Majeed</h1>
+<h3 align="center">🚀 AI Researcher | 🤖 RL Engineer | 🚗 Autonomous Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Umar+Majeed!;AI+Researcher+%7C+RL+Engineer+%7C+Autonomous+Systems+Enthusiast" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <img src="[https://github.com/umarmajeed7/umarmajeed7/assets/your-banner-image](https://github.com/umarmajeedofficial/umarmajeedofficial/blob/main/ChatGPT%20Image%20Apr%2013%2C%202025%2C%2011_06_19%20PM.png)" alt="AI Engineer Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umarmajeed7&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=umarmajeed7&label=Profile%20views&color=0e75b6&style=flat-square" alt="umarmajeed7" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/umarmajeed7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/umarmajeed7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://leetcode.com/umarmajeedofficial/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
 ---
+
+
 
 
 
