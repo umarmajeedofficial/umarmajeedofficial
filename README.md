@@ -55,9 +55,17 @@
       🛰️ Built a NASA space data analysis app that summarizes datasets using LLMs and provides visual insights for the public.
     </p>
     <p><strong>Skills:</strong> Python, Streamlit, OpenAI API, Data Wrangling</p>
-    <a href="https://drive.google.com/your-certificate-link" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=google-drive" />
-    </a>
+    <div style="margin-top: 12px;">
+      <a href="https://drive.google.com/your-certificate-link" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge&logo=google-drive" />
+      </a>
+      <a href="https://github.com/your-repo-link" target="_blank">
+        <img src="https://img.shields.io/badge/Code%20Repository-black?style=for-the-badge&logo=github" />
+      </a>
+      <a href="https://lablab.ai/event/your-hackathon-page" target="_blank">
+        <img src="https://img.shields.io/badge/Hackathon%20Page-green?style=for-the-badge&logo=notion" />
+      </a>
+    </div>
   </div>
 
   <!-- Hackathon 2 Card -->
@@ -67,24 +75,20 @@
       👁️ Created a system that detects and tracks users in real-time using webcam input and reinforcement learning for gaze accuracy.
     </p>
     <p><strong>Skills:</strong> OpenCV, PyTorch, Flask, Computer Vision, RL</p>
-    <a href="https://drive.google.com/your-certificate-link" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge&logo=google-drive" />
-    </a>
+    <div style="margin-top: 12px;">
+      <a href="https://drive.google.com/your-certificate-link" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Certificate-purple?style=for-the-badge&logo=google-drive" />
+      </a>
+      <a href="https://github.com/your-repo-link" target="_blank">
+        <img src="https://img.shields.io/badge/Code%20Repository-black?style=for-the-badge&logo=github" />
+      </a>
+      <a href="https://lablab.ai/event/your-hackathon-page" target="_blank">
+        <img src="https://img.shields.io/badge/Hackathon%20Page-green?style=for-the-badge&logo=notion" />
+      </a>
+    </div>
   </div>
 
-  <!-- Hackathon 3 Card -->
-  <div style="border: 2px solid #FF8C00; border-radius: 12px; padding: 16px; margin: 10px; width: 90%; max-width: 700px; background-color: #f9f9f9;">
-    <h3>Lablab.ai Hackathon 3: RL-based Path Planner for Drones</h3>
-    <p>
-      🚁 Developed an intelligent drone path planning system using PPO to avoid obstacles in simulated 3D environments.
-    </p>
-    <p><strong>Skills:</strong> PPO, RLlib, Simulation, DroneKit, 3D Environments</p>
-    <a href="https://drive.google.com/your-certificate-link" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Certificate-orange?style=for-the-badge&logo=google-drive" />
-    </a>
-  </div>
-
-  <!-- Add more hackathon cards here -->
+  <!-- Add more hackathon cards below in the same format -->
 
 </div>
 
