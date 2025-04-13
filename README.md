@@ -20,10 +20,6 @@
 
 ---
 
-
-
-
-
 ## 🚀 About Me
 
 🎓 MS Artificial Intelligence @ Air University, Islamabad  
@@ -92,6 +88,31 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umarmajeed7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarmajeed7&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarmajeed7&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## ❤️ Volunteer Work
+
+- 🧑‍🏫 **Stanford Code in Place – Section Leader (2025)**  
+  Led weekly coding sections, helped students grasp Python fundamentals, and fostered collaborative learning.
+
+- 🤝 **AI Mentor @ Hackathons**  
+  Guided beginners on AI tools and RL integration in LabLab.ai events.
+
+- 🗣️ **IELTS Speaking Club Facilitator**  
+  Organized and led practice sessions to improve English fluency for students preparing for IELTS.
+
+---
+
 ## 📊 LeetCode Stats
 
 > 🔗 [Visit My LeetCode Profile](https://leetcode.com/umarmajeedofficial/)
@@ -110,9 +131,9 @@
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umarmajeed7)
-[![GitHub](https://img.shields.io/badge/GitHub-dark?style=for-the-badge&logo=github)](https://github.com/umarmajeed7)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-leetcode-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umarmajeed7)  
+[![GitHub](https://img.shields.io/badge/GitHub-dark?style=for-the-badge&logo=github)](https://github.com/umarmajeed7)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/umarmajeedofficial/)
 
 ---
 
