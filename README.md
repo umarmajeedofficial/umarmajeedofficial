@@ -1,6 +1,6 @@
 <!-- Banner with Typing Effect -->
 <div align="center">
-  <img src="https://your-banner-image-url.com/banner.jpg" alt="Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://github.com/umarmajeedofficial/umarmajeedofficial/blob/main/markdesoft_cover.jpg" alt="Banner" width="100%" style="border-radius: 10px;" />
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=800&height=60&lines=Umar+Majeed;Autopilot+Software+Engineer+%7C+AI+Researcher" alt="Typing SVG" />
   </h1>
