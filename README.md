@@ -1,24 +1,31 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Umar Majeed</h1>
-<h3 align="center">🚀 AI Researcher | 🤖 RL Engineer | 🚗 Autonomous Systems Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umarmajeed7&label=Profile%20views&color=0e75b6&style=flat-square" alt="umarmajeed7" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/umarmajeed7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/umarmajeed7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/umarmajeedofficial/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
+<!-- Banner with Typing Effect -->
+<div align="center">
+  <img src="https://your-banner-image-url.com/banner.jpg" alt="Banner" width="100%" style="border-radius: 10px;" />
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=800&height=60&lines=Umar+Majeed;Autopilot+Software+Engineer+%7C+AI+Researcher" alt="Typing SVG" />
+  </h1>
+</div>
 
 ---
+
+<!-- Contact Buttons Section -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/umar-majeed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/umar_majeed" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@umar-majeed" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://lablab.ai/u/umar-majeed" target="_blank">
+    <img src="https://img.shields.io/badge/LabLab.ai-purple?style=flat-square&logo=data:image/svg+xml;base64,...(base64-logo)" />
+  </a>
+  <a href="https://your-cv-link.com/Umar_Majeed_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Download-green?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</div>
 
 ## 🚀 About Me
 
