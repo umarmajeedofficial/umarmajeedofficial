@@ -93,32 +93,54 @@
 </div>
 
 ---
-
 ## 🧪 Projects
 
+<!-- Project 1 -->
 ### 🚗 RL Obstacle Avoidance for Autonomous Vehicles
 ![rl-av](https://your-image-url.com/rl-av.gif)
-- RL algorithms: PPO & DDPG
-- Trained in simulated 3D environments
-- Integrates OpenCV + real-time decision making
+An autonomous driving system trained in 3D simulation to avoid obstacles using reinforcement learning.
+- **Technologies**: Python, OpenCV, PyTorch, Unity3D
+- **Algorithms**: PPO, DDPG
+- **Highlights**: Real-time decision-making, environment perception using sensor data
 
 ---
 
-### 👤 Vision-Based User Tracking
+<!-- Project 2 -->
+### 👤 Vision-Based User Tracking System
 ![user-tracker](https://your-image-url.com/user-tracker.gif)
-- Face detection and tracking in real-time
-- Reinforcement feedback loop for gaze accuracy
-- Flask + OpenCV + PyTorch pipeline
+A real-time face tracking system using a webcam with a reinforcement feedback loop for improved accuracy.
+- **Technologies**: Flask, OpenCV, PyTorch
+- **Features**: Gaze detection, feedback-based learning, lightweight UI
 
 ---
 
+<!-- Project 3 -->
 ### 🌌 NASA Space Data Analyzer (AIstronauts Hackathon)
 ![nasa-project](https://your-image-url.com/nasa-project.png)
-- Public access to NASA datasets
-- Auto-summarization using LLMs
-- Built using Streamlit + API integration
+Tool to explore NASA open datasets, summarize complex information using LLMs, and visualize findings.
+- **Technologies**: Streamlit, OpenAI API, Pandas, Matplotlib
+- **Key Features**: RAG-based summary, space data filter, visual insights
 
 ---
+
+<!-- Project 4 -->
+### 🧠 AI-Powered Career Counselor
+![career-counselor](https://your-image-url.com/career-counselor.gif)
+An AI bot that helps students choose careers based on interests, aptitude, and trending fields.
+- **Technologies**: LangChain, GPT-4, ChromaDB, React
+- **Highlights**: Chatbot interface, document-based search, interactive UX
+
+---
+
+<!-- Project 5 -->
+### 🕵️ Intelligent Resume Analyzer
+![resume-analyzer](https://your-image-url.com/resume-analyzer.gif)
+A resume analyzer tool that scores and provides suggestions using GPT and job description alignment.
+- **Technologies**: Streamlit, GPT-3.5, PDF Parsing, Scikit-learn
+- **Features**: Resume parsing, LLM-based improvement tips, match percentage
+
+---
+
 
 ## 📊 GitHub Stats
 
