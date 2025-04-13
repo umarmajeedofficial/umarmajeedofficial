@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/umarmajeed7/umarmajeed7/assets/your-banner-image" alt="AI Engineer Banner" width="100%" />
+  <img src="[https://github.com/umarmajeed7/umarmajeed7/assets/your-banner-image](https://github.com/umarmajeedofficial/umarmajeedofficial/blob/main/ChatGPT%20Image%20Apr%2013%2C%202025%2C%2011_06_19%20PM.png)" alt="AI Engineer Banner" width="100%" />
 </p>
 
 <p align="center">
