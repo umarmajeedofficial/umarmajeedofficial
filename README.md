@@ -1,7 +1,11 @@
+<div align="center">
+  <h1 align="center"> Hi, I am Umar
+</h1>
+</div>
 
 <div align="center">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=800&height=60&lines=Umar+Majeed;Autopilot+Software+Engineer;AI+Researcher;Autonomous+Agents;Deep+Reinforcement+Learning;Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=800&height=60&lines=Autopilot+Software+Engineer;AI+Researcher;Autonomous+Agents;Deep+Reinforcement+Learning;Software+Engineer" alt="Typing SVG" />
   </h1>
 </div>
 
