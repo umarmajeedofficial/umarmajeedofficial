@@ -1,4 +1,10 @@
-<!-- Let's Connect Section (Moved to Top) -->
+
+<div align="center">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=800&height=60&lines=Umar+Majeed;Autopilot+Software+Engineer;AI+Researcher;Autonomous+Agents;Deep+Reinforcement+Learning;Software+Engineer" alt="Typing SVG" />
+  </h1>
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/umar-majeed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -9,14 +15,6 @@
   <a href="tel:+923001234567" target="_blank">
     <img src="https://img.shields.io/badge/Phone-Call-green?style=flat-square&logo=phone&logoColor=white" />
   </a>
-</div>
-
-<!-- Banner with Typing Effect -->
-<div align="center">
-  <img src="https://github.com/umarmajeedofficial/umarmajeedofficial/blob/main/markdesoft_cover.jpg" alt="Banner" width="100%" style="border-radius: 10px;" />
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=800&height=60&lines=Umar+Majeed;Autopilot+Software+Engineer;AI+Researcher;Autonomous+Agents;Deep+Reinforcement+Learning;Software+Engineer" alt="Typing SVG" />
-  </h1>
 </div>
 
 ---
