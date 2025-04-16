@@ -10,10 +10,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/umar-majeed" target="_blank">
+  <a href="https://www.linkedin.com/in/umarmajeedofficial" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:umarmajeedofficial.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-orange?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+923001234567" target="_blank">
