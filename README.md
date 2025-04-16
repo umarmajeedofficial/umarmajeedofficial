@@ -25,10 +25,10 @@
 
 ## 🚀 About Me
 
-🎓 MS Artificial Intelligence @ Air University, Islamabad (GPA: 3.15/4.0)
-📌 Thesis: Deep RL for Obstacle Avoidance in AVs (DDPG, PPO, SAC, TD3)
-🎓 BS Computer Science @ Poonch University, Rawalakot (CGPA: 3.28/4.0)
-📌 Final Year Project: Real-time Firearm Detection System (92% Accuracy)
+  🎓 MS Artificial Intelligence @ Air University, Islamabad (GPA: 3.15/4.0)
+  📌 Thesis: Deep RL for Obstacle Avoidance in AVs (DDPG, PPO, SAC, TD3)
+  🎓 BS Computer Science @ Poonch University, Rawalakot (CGPA: 3.28/4.0)
+  📌 Final Year Project: Real-time Firearm Detection System (92% Accuracy)
 📄 Research Paper Under Review: RL for Real-time Obstacle Detection in AVs
 🧑‍🏫 Selected Section Leader @ Stanford Code in Place 2025
 💡 Taught Python, mentored globally, and initiated peer mentorship
