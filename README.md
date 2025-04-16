@@ -25,25 +25,34 @@
 
 ## 🚀 About Me
 
-🎓 MS Artificial Intelligence @ Air University, Islamabad  
-🎓 BS Computer Science @ Poonch University Rawalakot (CGPA: 3.28/4.0)  
-📌 Research Focus: **Reinforcement Learning for Obstacle Avoidance in Autonomous Vehicles**  
-🧠 500+ LeetCode Problems Solved  
-🧑‍🏫 Selected Section Leader @ Stanford Code in Place  
-🧩 9/9 Puzzles Solved @ Harvard CS50x Puzzle Day 2025  
-📄 Currently writing a research paper on RL in AVs
+🎓 MS Artificial Intelligence @ Air University, Islamabad (GPA: 3.15/4.0)
+📌 Thesis: Deep RL for Obstacle Avoidance in AVs (DDPG, PPO, SAC, TD3)
+🎓 BS Computer Science @ Poonch University, Rawalakot (CGPA: 3.28/4.0)
+📌 Final Year Project: Real-time Firearm Detection System (92% Accuracy)
+📄 Research Paper Under Review: RL for Real-time Obstacle Detection in AVs
+🧑‍🏫 Selected Section Leader @ Stanford Code in Place 2025
+💡 Taught Python, mentored globally, and initiated peer mentorship
+🧩 Harvard CS50x Puzzle Day 2025 – 9/9 Puzzles Solved (1st Place)
+🧠 500+ LeetCode Problems Solved | Taught DSA via iCodeGuru & Hackathons
+🥇 Multiple Wins in Global Hackathons | AI CV Optimizer | DeepSeek Web Assistant
+📢 Speaker & Mentor: Led global webinars on AI, Python, and Stanford prep
+🎯 Typing Speed: 164 WPM 
+🏆 MITIT Summer Programming Contest (4/5 solved)
 
 ---
 
 ## 🧠 Skills
 
-- 🤖 Autonomous Agents | Deep Reinforcement Learning (PPO, DDPG, SAC)
-- 🎯 Deep Learning | PyTorch | TensorFlow
-- 👁️ Computer Vision | Image & Video Processing
-- 📊 Real-time Data | Sensor Fusion
-- 🧮 Algorithms & Data Structures
-- 🌐 Python | C++ | Flask | OpenCV
-- 🛠️ Git | GitHub | VS Code | Streamlit
+🤖 Autonomous Agents | Deep RL (DDPG, PPO, SAC, TD3) | Obstacle Avoidance | Path Planning
+🎯 Deep Learning | PyTorch | TensorFlow | Keras | Detectron2 | YOLOv5 | DeepLab
+👁️ Computer Vision | Image & Video Processing | SLAM | Sensor Data
+📊 Real-time Data Processing | Sensor Fusion | Reward Shaping | Robotics
+🧮 Algorithms & Data Structures | LeetCode Pattern Mastery | MIT, Meta HackerCup
+🌐 Programming: Python | C++ | C | Flask | FastAPI | OpenCV
+💻 Dev Tools: Git | GitHub | VS Code | PyCharm | Jupyter | Streamlit | Docker | Kubernetes
+🧠 Simulation & Deployment: CARLA | AirSim | Gazebo | Hugging Face | ONNX | TensorFlow Serving
+☁️ Cloud: AWS | Azure | Google Cloud
+🌍 Languages: Fluent English (IELTS 7.5 Band) | Urdu
 
 ---
 
